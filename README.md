@@ -55,7 +55,7 @@ nano .bash_profile
 ```
 #### Add Alias commands
 ```
-alias host='cd ~; cd /Applications/MAMP/conf/apache; nano httpd.conf'
+alias host='cd ~; cd /private/etc; sudo nano hosts'
 ```
 ```
 alis vhost='cd ~; cd /Applications/MAMP/conf/apache/extra; nano httpd-vhost.conf'
