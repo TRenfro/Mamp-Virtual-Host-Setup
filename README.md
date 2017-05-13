@@ -44,7 +44,7 @@ nano httpd-vhost.conf
 ```
 add virtual host path and dev URL
 
-# Step 4
+## Step 4
 
 #### Set Up Alias Commands
 ```
