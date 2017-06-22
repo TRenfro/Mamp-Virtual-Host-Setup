@@ -1,7 +1,7 @@
 # Mamp-Virtual-Host-Setup
 Instructions on how to set up a local environment with MAMP and NGINX
 
-#Set up Mamp Virtual Host
+# Set up Mamp Virtual Host
 
 ## Step 1
 
